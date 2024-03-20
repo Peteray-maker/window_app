@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\bin\Debug\tester.exe.config
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\bin\Debug\tester.exe
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\bin\Debug\tester.pdb
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\obj\Debug\tester.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\obj\Debug\tester.Form1.resources
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\obj\Debug\tester.Properties.Resources.resources
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\obj\Debug\tester.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\obj\Debug\tester.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\obj\Debug\tester.exe
+C:\Users\user\Desktop\ASSESSMENT\Algorithm and Data Structure\online tut\tester\obj\Debug\tester.pdb
